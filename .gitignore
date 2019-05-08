@@ -1,3 +1,4 @@
 socket/node_modules
 api/node_modules
 .idea/*
+client/node_modules
